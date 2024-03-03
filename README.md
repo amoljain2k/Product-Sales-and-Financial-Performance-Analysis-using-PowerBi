@@ -14,5 +14,5 @@ Create dynamic Power BI dashboards to visualize sales data, enabling stakeholder
 <h2>Program Screenshots</h2>
 👇Please Click Below
 </br>
-[Click Here](https://github.com/amoljain2k/Passwords-Strength-Prediction)
+(https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi/blob/main/Report1View.pdf)
 
