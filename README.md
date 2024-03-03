@@ -12,7 +12,7 @@ Create dynamic Power BI dashboards to visualize sales data, enabling stakeholder
 - <b>DAX Funcations</b>
 
 <h2>Program Screenshots</h2>
-👇Please Click Below
+👇Please Click Below👇
 </br>
 https://github.com/amoljain2k/Product-Sales-and-Financial-Performance-Analysis-using-PowerBi/blob/main/Report1View.pdf
 
